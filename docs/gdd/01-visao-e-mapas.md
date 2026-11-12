@@ -41,7 +41,7 @@ Em vez de um bairro por mapa, existe um tamanho máximo de mapa, ponto de partid
 |---|---|
 | Bairro cabe no limite | Vira um mapa |
 | Bairros pequenos vizinhos | Agrupados num mapa, cada um com nome e limite próprios |
-| Bairro grande demais | Dividido em partes por divisas naturais: rio, avenida grande, linha de trem |
+| Bairro grande demais | Dividido em partes por divisas naturais: rio, avenida grande, rodovia, linha de trem |
 | Cidade pequena inteira | Cabe num mapa só, e o jogador começa com a cidade toda |
 
 ### Natureza com peso no jogo
@@ -52,6 +52,12 @@ Em vez de um bairro por mapa, existe um tamanho máximo de mapa, ponto de partid
 - Morro encarece a obra e restringe o tipo de construção, com risco de deslizamento.
 
 Mais para frente pode entrar um modo "bairro como é hoje", que carrega também o contorno dos prédios existentes.
+
+### Rodovias, zona rural e aeroportos
+
+- **Rodovia:** a rodovia estadual ou federal aparece na borda do mapa ou corta cidades pequenas inteiras. Serve de divisa natural, traz barulho e acidentes, e na margem dela surgem posto de gasolina, borracharia, motel e restaurante de estrada. Acesso bom à rodovia atrai galpão e indústria leve; acesso ruim vira pauta de campanha.
+- **Zona rural:** mapas do interior vêm com borda rural — sítios, chácaras, fazenda de gado, horta e eucalipto, ligados por estrada de terra. A produção abastece a feira e o mercadinho do mapa, e o êxodo rural traz moradores novos. Urbanizar terra rural valoriza o terreno e gera conflito com quem produz ali.
+- **Aeroporto:** aeroporto grande fica fora do mapa jogável e aparece só na visão regional, como conexão entre blocos. Cidade do interior pode ter aeródromo pequeno dentro do mapa, que atrai negócio e vira pauta política: voos comerciais, concessão, ampliação.
 
 ### Mapas de teste definidos
 
