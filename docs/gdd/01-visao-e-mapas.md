@@ -53,6 +53,14 @@ Em vez de um bairro por mapa, existe um tamanho máximo de mapa, ponto de partid
 
 Mais para frente pode entrar um modo "bairro como é hoje", que carrega também o contorno dos prédios existentes.
 
+### Mapas de teste definidos
+
+| Ordem | Mapa | Por quê | Fase |
+|---|---|---|---|
+| 1 | Maré Mansa + Parque Imperial (Presidente Prudente, SP) | Bairro do próprio time de desenvolvimento — o gancho pessoal do jogo desde o primeiro dia. Terreno plano, que valida o importador OSM sem a variável do relevo. Cercado de pasto, que entra como área verde livre para construir. Um pequeno riacho corta por fora dos dois bairros e já testa água e ponte em escala mínima | 1–2 |
+| 2 | Freguesia do Ó (São Paulo, SP) | Rio Tietê na borda (várzea e enchente), relevo moderado, comunidades mapeadas pelo IBGE e traçado antigo orgânico — exerce ruas curvas, enchente, morro e comunidades num território pequeno | 2–3 |
+| 3 | Jardim Ângela (São Paulo, SP) | Morros fortes e comunidades grandes; testa o sistema de comunidades e desastres de verdade — e, pelo tamanho, exercita a divisão de mapa por divisa natural | 6 |
+
 ## Escada de mapas e carreira política
 
 Só o bairro é um mapa jogável em detalhe. Os níveis acima são mapas de mapas: cada bairro, cidade ou estado aparece como um bloco com números resumidos, e o jogo calcula como um afeta o outro. O cargo político acompanha o nível do mapa.
