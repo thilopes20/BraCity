@@ -97,6 +97,7 @@ Quando o jogador não está na política, os robôs governam a cidade. As decis�
 | Empreendedor | Abrir um negócio no bairro, como MEI e depois empresa | Do mercadinho ou da padaria até uma rede |
 | Profissional liberal | Faculdade | Montar consultório, escritório ou clínica |
 | Trabalhador com carteira | Vaga de emprego | Ser promovido, mudar de empresa, juntar para a casa própria |
+| Jogador de futebol | Peneira e escolinha | Da escolinha ao clube de várzea, depois ao clube regional e ao profissional; carreira curta, exige plano pós-aposentadoria |
 | Caminho criminoso | Escolhas em eventos | Dinheiro rápido, sempre com risco crescente |
 
 As carreiras se cruzam com a política. O executivo que oferece propina, o delegado que investiga, o promotor que acusa e o juiz que julga podem ser personagens do jogo ou outros jogadores, e a corrupção vira uma teia em que cada lado faz escolhas.
@@ -121,8 +122,8 @@ A maioria das vagas vem dos estabelecimentos que existem de verdade no mapa. Qua
 | Restaurantes e lanchonetes | Garçom, cozinheiro, chapeiro |
 | Serviços | Recepcionista, porteiro, frentista, operador de telemarketing, diarista |
 | Construção | Servente, pedreiro, mestre de obras |
-| Transporte | Motorista de ônibus, taxista, motorista de aplicativo, motoboy, entregador de bicicleta, vendedor de concessionária |
-| Informal | Camelô, bicos, venda de comida na rua |
+| Transporte | Motorista de ônibus, taxista, motorista de aplicativo, motoboy, entregador de aplicativo, entregador de bicicleta, vendedor de concessionária |
+| Informal | Camelô, bicos, venda de comida na rua, flanelinha, catador de recicláveis, sorveteiro de carrinho |
 
 Cada vaga pode ser com carteira assinada (estabilidade, FGTS, férias) ou informal (mais flexível, sem proteção). Experiência acumulada abre a promoção: o repositor vira fiscal, o fiscal vira gerente, o gerente pode abrir o próprio negócio.
 
