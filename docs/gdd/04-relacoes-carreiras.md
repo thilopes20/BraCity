@@ -122,7 +122,7 @@ A maioria das vagas vem dos estabelecimentos que existem de verdade no mapa. Qua
 | Restaurantes e lanchonetes | Garçom, cozinheiro, chapeiro |
 | Serviços | Recepcionista, porteiro, frentista, operador de telemarketing, diarista |
 | Construção | Servente, pedreiro, mestre de obras |
-| Transporte | Motorista de ônibus, taxista, motorista de aplicativo, motoboy, entregador de aplicativo, entregador de bicicleta, vendedor de concessionária |
+| Transporte | Motorista de ônibus, taxista, motorista de aplicativo, motoboy, entregador de aplicativo, entregador de bicicleta, entregador de e-commerce (ShopFácil, MercadoBom, CompreCerto), vendedor de concessionária |
 | Informal | Camelô, bicos, venda de comida na rua, flanelinha, catador de recicláveis, sorveteiro de carrinho |
 
 Cada vaga pode ser com carteira assinada (estabilidade, FGTS, férias) ou informal (mais flexível, sem proteção). Experiência acumulada abre a promoção: o repositor vira fiscal, o fiscal vira gerente, o gerente pode abrir o próprio negócio.
