@@ -26,6 +26,45 @@
 
 **Metas e obituário:** a vida tem metas pessoais (casa própria, diploma, negócio próprio, criar os filhos, aposentar). Na morte, o jogo escreve um obituário com onde o personagem nasceu, o que conquistou e o que deixou.
 
+## Clima, estações e ciclo dia/noite
+
+O calendário traz as quatro estações do hemisfério sul, um estado do tempo por dia e o ciclo de dia e noite. O clima não é enfeite: é o gatilho natural de sistemas que já existem no jogo (enchente, deslizamento, dengue, doenças respiratórias, crime noturno). O clima não adiciona um sistema novo — dá o "quando" para causas que já estão no design.
+
+### Estados do tempo
+
+Os estados são sorteados com probabilidades por estação: verão traz pancadas de chuva rápidas e fortes; inverno traz garoa e frio seco, o "inverno paulistano"; primavera e outono fazem a transição.
+
+| Estado | Estação típica | Modificadores principais |
+|---|---|---|
+| Ensolarado | Todas | — |
+| Nublado | Todas | Humor levemente menor no modo civil |
+| Garoa | Inverno | Trajeto um pouco mais lento; frio |
+| Chuva | Todas | Trajeto mais lento; feira não monta |
+| Chuva forte | Verão e primavera | Risco de enchente na várzea e margem de rio; risco de deslizamento em encosta |
+| Tempestade | Verão | Enchente e deslizamento altos; apagões possíveis; trovão e raios |
+| Frio | Inverno | Doenças respiratórias; gasto com agasalho e energia |
+| Frio com chuva | Inverno | Soma os efeitos; risco maior de doença |
+| Onda de calor | Verão | Risco para idosos; pico de consumo de energia |
+| Vento | Todas | Espalha incêndio; derruba galhos em ruas sem poda |
+
+Cada estado é uma tabela de modificadores que os sistemas leem: chuva forte aumenta o risco de enchente, deixa o trajeto mais lento e mantém as famílias em casa. O dia e a noite também alteram o jogo: a noite pesa na segurança (rua sem iluminação pública aumenta o crime) e permite eventos noturnos (baile, assalto, apagão).
+
+### Camada visual (em fases)
+
+- **Dia/noite primeiro:** sol girando e cor do céu — o de maior impacto visual e o mais barato no Unity.
+- **Chuva segundo:** partículas simples e som; garoa e tempestade são intensidades da mesma chuva; trovão é flash de luz e áudio.
+- Nada de nuvens volumétricas ou poças com reflexo no protótipo — armadilha de escopo.
+
+### Eventos que o clima cria
+
+- Alerta da Defesa Civil antes de tempestade.
+- Mutirão pós-enchente.
+- Onda de dengue no verão.
+- Frente fria chegando, que muda a semana.
+- Apagão numa noite de segunda-feira.
+
+No modo civil, a chuva muda o humor, o trajeto e a rotina: a feira não monta no dia de tempestade. E a chuva de verão que alaga a rua de terra sem drenagem mostra na pele o investimento que faltou — exatamente o espírito do jogo.
+
 ## Economia em números
 
 **Unidade base: o salário mínimo.** Todos os valores do jogo são guardados como múltiplos do salário mínimo (SM) e mostrados em reais. Em 2026, o SM é de R$ 1.621. Assim a economia não envelhece: quando o SM sobe, dentro do jogo ou numa atualização, tudo se ajusta junto, e as proporções continuam fazendo sentido.
@@ -189,7 +228,7 @@ Cada fase termina com algo jogável. A seguinte só começa quando a anterior es
 1. **Protótipo:** câmera isométrica, terreno, desenhar uma rua curva com o mouse, colocar um prédio.
 2. **Bairro real:** importar um bairro de teste do OpenStreetMap, com ruas, rio, mata e relevo.
 3. **Crescimento:** lotes à venda, chegada de moradores, obra em etapas, comércio espontâneo.
-4. **Serviços e orçamento:** necessidades, pedidos da população, índices, receitas e despesas.
+4. **Serviços e orçamento:** necessidades, pedidos da população, índices, receitas e despesas; clima, estações e ciclo dia/noite entram como gatilhos de eventos e desastres.
 5. **Carreira de vereador:** eleição, metas, robôs governando o resto, visão do distrito e da cidade.
 6. **Comunidades, segurança e desastres.**
 7. **Modo vida:** estudo, emprego e as outras carreiras.
