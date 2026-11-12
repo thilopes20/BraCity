@@ -137,6 +137,23 @@ O que faz a cidade parecer viva é o movimento na calçada. A variedade vem de u
 
 **Trânsito:** hora do rush de manhã e no fim da tarde engarrafando as vias principais — o trajeto até o trabalho fica mais longo e alimenta a reclamação da população. Blitz da Lei Seca, acidentes que aumentam com trânsito caótico e falta de sinalização.
 
+### Veículos
+
+O tráfego usa a mesma lógica modular dos pedestres: cerca de 20 modelos base, e a variedade vem de cor, ano e estado de conservação (do brilhante ao descascado) sobre o mesmo mesh — centenas de combinações visíveis sem centenas de modelos.
+
+| Categoria | Modelos base |
+|---|---|
+| Carro de passeio | Popular, sedan, SUV, picape, carro de aplicativo (sedan com adesivo) |
+| Moto | Moto pop, moto média, moto grande, mototáxi (com colete) |
+| Coletivos | Ônibus urbano, micro-ônibus, van/kombi de lotação, táxi |
+| Carga | Caminhão baú, caminhão de lixo, betoneira e caminhão de obra, carreta |
+| Serviço | Ambulância, viatura, carro dos Correios, caminhão dos bombeiros |
+
+- Veículos de serviço reutilizam os mesmos modelos do tráfego com pintura e adesivo próprios.
+- Os entregadores de e-commerce usam moto e bicicleta com a sacola térmica e o adesivo da marca fictícia (ShopFácil, MercadoBom, CompreCerto).
+- O ônibus mostra o número da linha; cortar a linha no modo político muda o que circula na rua.
+- A carreta só circula perto de rodovia, distribuidora e centro de distribuição — bairro sem indústria não tem carreta cortando rua estreita.
+
 ## Animais
 
 **Pets do modo civil:** cachorro e gato (já definidos no modo civil), com ração, veterinário e passeio.
