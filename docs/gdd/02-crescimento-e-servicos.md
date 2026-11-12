@@ -35,7 +35,7 @@ O catálogo segue a realidade brasileira. O que é público, o jogador decide e 
 | Transporte | Ponto de ônibus, terminal de ônibus, ponto de mototáxi, ciclofaixa, BRT, estação de trem ou metrô, rodoviária, van e lotação de bairro, ponto de táxi | Público; mototáxi, van e táxi pelo mercado |
 | Infraestrutura | Rede de água e esgoto, estação de tratamento, iluminação pública, asfalto (rua de terra vira asfaltada), calçada, drenagem e piscinão, coleta de lixo, ecoponto, cooperativa de reciclagem | Público |
 | Serviços e governo | Subprefeitura, posto de atendimento ao cidadão, agência dos Correios, cartório, agência bancária, câmara de vereadores, prefeitura | Público; banco pelo mercado |
-| Trabalho | Galpão, distribuidora, fábrica, escritórios | Mercado |
+| Trabalho | Galpão, distribuidora, fábrica, escritórios, centro de distribuição de e-commerce (CD) | Mercado |
 
 Detalhes que dão sabor brasileiro: a feira montando e desmontando no dia certo, o lote vago com mato que gera reclamação, a rua de terra que vira promessa de campanha, o boteco da esquina como ponto de encontro do bairro.
 
@@ -116,6 +116,8 @@ A informalidade é uma escada de progressão real, com as mesmas regras do empre
 **Tentações leves do mundo informal:** pirataria no camelô (CD, DVD, camisa de time) e jogo do bicho no boteco — rendem rápido, aumentam a ficha e chamam a polícia.
 
 **Programas sociais federais:** Bolsa Família e afins entram como política do cargo federal no modo político, e no modo civil mudam a renda de famílias de verdade do mapa. É a ponte que fecha o ciclo federação → família.
+
+**Entrega de e-commerce:** os marketplaces fictícios (ShopFácil, MercadoBom, CompreCerto) chegam ao bairro com centro de distribuição na borda do mapa e um enxame de entregadores de moto, carro, bicicleta e a pé nas ruas mais densas. Vagas de separador no CD e de entregador por meta (que paga por entrega, não por hora). Eventos próprios: meta apertada, pacote perdido, cliente que não está em casa, golpe da "reentrega", sacola térmica do MercadoBom na bicicleta do bairro.
 
 ## Vida na rua
 
