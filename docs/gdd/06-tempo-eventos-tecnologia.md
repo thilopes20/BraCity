@@ -185,6 +185,22 @@ Efeitos imediatos mexem na hora em dinheiro, tempo, barras de necessidade, rela�
 | Tentação | Propina, diploma falso, dinheiro fácil |
 | Cadeia | Eventos ligados por marcas, que contam uma história ao longo de anos |
 
+### Grupos de WhatsApp
+
+O celular do personagem tem grupos de WhatsApp, e eles são o canal onde boa parte dos eventos chega, no formato de mensagens de texto. Cada grupo tem um clima próprio, que sobe e desce com as escolhas do jogador:
+
+| Grupo | O que chega | Exemplos |
+|---|---|---|
+| Do bairro | Avisos, pedidos e reclamações da vizinhança | "Sumiu a cachorra Preta", "vai ter baile sábado", "a luz sumiu de novo", corrente de bênção |
+| Da família | Convites, brigas e pedidos | Churrasco de domingo, tio que pede dinheiro, briga de herança, aniversário da vó |
+| Dos amigos | Chamados para o lazer e ajuda mútua | Futebol na quadra, rodízio de pizza, carona, empréstimo |
+| Do trabalho | Escalas e clima da empresa | Hora extra, chefe cobrando no grupo, colega fofoqueiro, vaga indicada |
+
+- As mensagens são aleatórias, mas o sorteio é ponderado por gatilhos: as marcas que o jogador deixou (prometeu ir ao churrasco e não foi), o estado das relações, o clima da cidade e a velocidade do tempo decidem o que chega.
+- Grupo com clima bom traz momento legal: convite, piada, ajuda. Grupo com clima ruim traz briga e desentendimento, que derrubam o humor e esfriam relações.
+- O jogador pode reagir, mandar mensagem ou silenciar o grupo. Silenciar poupa o humor, mas faz perder informação: quem sai do grupo do bairro não fica sabendo do baile nem do assalto na rua de trás.
+- No modo político, o grupo do bairro funciona como termômetro: é ali que a população cobra obra, reclama do ônibus e comenta a gestão antes de virar índice.
+
 **Questões em aberto de multiplayer:** dois jogadores querendo o mesmo bairro (resolvido por eleição ou fila); prefeito e vereador jogadores discordando (votações na câmara, disputa por verba e alianças como mecânica). O online entra só na última fase, depois que o jogo solo estiver divertido.
 
 ## Tecnologia e visual
