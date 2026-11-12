@@ -4,7 +4,7 @@ Construtor de cidade em que o jogador reconstrói bairros reais do Brasil, parti
 
 O gancho é pessoal: o jogador procura a própria rua no mapa e decide como o bairro dele poderia ser. Por cima disso corre uma carreira: começa no bairro, como vereador ou cidadão comum, e sobe até prefeito, governador e presidente, conforme o mapa se amplia.
 
-**Status:** fase de design (GDD v1). Protótipo não iniciado.
+**Status:** fase de design (GDD v1.1). Protótipo não iniciado.
 
 ## Documento de Design (GDD)
 
@@ -15,7 +15,7 @@ O gancho é pessoal: o jogador procura a própria rua no mapa e decide como o ba
 | [3. Modo civil](docs/gdd/03-modo-civil.md) | Os dois modos, necessidades do personagem, saúde, doenças, moradia |
 | [4. Relações e carreiras](docs/gdd/04-relacoes-carreiras.md) | Relacionamentos, estudo e provas, carreiras, empregos, jornada |
 | [5. Política e economia](docs/gdd/05-politica-economia.md) | Eleições, carreira política, empresas, finanças dos dois modos, corrupção |
-| [6. Tempo, eventos e tecnologia](docs/gdd/06-tempo-eventos-tecnologia.md) | Controle do tempo, economia em números, sistema de eventos, Unity, interface, PC e celular, fases de desenvolvimento |
+| [6. Tempo, eventos e tecnologia](docs/gdd/06-tempo-eventos-tecnologia.md) | Controle do tempo, clima e estações, economia em números, sistema de eventos, Unity, interface, PC e celular, fases de desenvolvimento |
 
 ## Fases de desenvolvimento (resumo)
 
@@ -24,7 +24,7 @@ Cada fase termina com algo jogável. A seguinte só começa quando a anterior es
 1. Protótipo: câmera isométrica, terreno, rua curva, prédio
 2. Bairro real: importar um bairro de teste do OpenStreetMap
 3. Crescimento: lotes, moradores, obra em etapas, comércio espontâneo
-4. Serviços e orçamento
+4. Serviços e orçamento, com clima e estações como gatilhos de eventos e desastres
 5. Carreira de vereador
 6. Comunidades, segurança e desastres
 7. Modo vida
