@@ -23,21 +23,23 @@ O catálogo segue a realidade brasileira. O que é público, o jogador decide e 
 | Categoria | Construções | Quem abre |
 |---|---|---|
 | Moradia | Casa térrea, sobrado, casa com puxadinho, kitnet, prédio de apartamentos, condomínio fechado, conjunto habitacional | Moradores e mercado; conjunto habitacional pelo poder público |
-| Comércio de bairro | Mercadinho, padaria, açougue, hortifrúti, farmácia, lotérica, boteco, lanchonete, pastelaria, salão e barbearia, loja de material de construção, papelaria, lojinha de utilidades, oficina mecânica, borracharia, lava-rápido | Mercado |
-| Comércio maior | Supermercado, atacarejo, hipermercado, shopping, posto de gasolina, concessionária de carros, loja de motos, bicicletaria | Mercado |
+| Comércio de bairro | Mercadinho, padaria, açougue, hortifrúti, farmácia, lotérica, boteco, lanchonete, pastelaria, salão e barbearia, loja de material de construção, papelaria, lojinha de utilidades, oficina mecânica, borracharia, lava-rápido, loja de R$ 1,99, brechó, marmitifício, sorveteria, hamburgueria, esfiha e pizzaria, distribuidora de bebidas, pet shop, lavanderia, gráfica rápida, ateliê de costura, banca de jornal, lan house | Mercado |
+| Comércio maior | Supermercado, atacarejo e hipermercado em rede, shopping, posto de gasolina em rede, concessionária de carros, loja de motos, bicicletaria, academia privada, drogaria em rede | Mercado |
 | Abastecimento público | Feira livre (com dia da semana fixo), mercado municipal, sacolão | Prefeitura |
 | Saúde | UBS (posto de saúde), UPA 24h, hospital municipal, hospital estadual, hospital universitário, CAPS, hospital particular, pronto-socorro particular, clínica e laboratório particulares | Público e privado |
-| Educação | Creche, escola municipal, escola estadual, escola técnica, faculdade particular, universidade pública | Público e privado |
+| Educação | Creche, escola municipal, escola estadual, escola técnica, faculdade particular, universidade pública, cursinho pré-vestibular (popular ou privado) | Público e privado |
 | Segurança | Base da Guarda Municipal, companhia da Polícia Militar, delegacia da Polícia Civil, Corpo de Bombeiros, Defesa Civil | Público |
-| Assistência social | CRAS, CREAS, restaurante popular | Público |
-| Lazer e cultura | Praça, academia ao ar livre, campo de várzea, quadra poliesportiva, parque, biblioteca, centro cultural | Público |
+| Assistência social | CRAS, CREAS, restaurante popular, albergue, centro de referência de população em situação de rua | Público |
+| Lazer e cultura | Praça, academia ao ar livre, campo de várzea, quadra poliesportiva, parque, biblioteca, centro cultural, parquinho infantil, escolinha de futebol, ginásio esportivo, estádio municipal | Público |
 | Religião e comunidade | Igreja católica, igreja evangélica, terreiro, salão da associação de moradores | Comunidade |
-| Transporte | Ponto de ônibus, terminal de ônibus, ponto de mototáxi, ciclofaixa, BRT, estação de trem ou metrô, rodoviária | Público; mototáxi pelo mercado |
+| Transporte | Ponto de ônibus, terminal de ônibus, ponto de mototáxi, ciclofaixa, BRT, estação de trem ou metrô, rodoviária, van e lotação de bairro, ponto de táxi | Público; mototáxi, van e táxi pelo mercado |
 | Infraestrutura | Rede de água e esgoto, estação de tratamento, iluminação pública, asfalto (rua de terra vira asfaltada), calçada, drenagem e piscinão, coleta de lixo, ecoponto, cooperativa de reciclagem | Público |
 | Serviços e governo | Subprefeitura, posto de atendimento ao cidadão, agência dos Correios, cartório, agência bancária, câmara de vereadores, prefeitura | Público; banco pelo mercado |
 | Trabalho | Galpão, distribuidora, fábrica, escritórios | Mercado |
 
 Detalhes que dão sabor brasileiro: a feira montando e desmontando no dia certo, o lote vago com mato que gera reclamação, a rua de terra que vira promessa de campanha, o boteco da esquina como ponto de encontro do bairro.
+
+**Nomes de rede:** supermercados, atacarejos, drogarias, academias e postos em rede usam nomes fictícios inspirados nos padrões reais; marcas verdadeiras só com licença.
 
 ## Necessidades, índices e orçamento
 
@@ -90,3 +92,33 @@ No lugar de exércitos, a defesa do jogo é a segurança pública e a proteção
 - **Deslizamento** em encosta ocupada; resposta com contenção e Defesa Civil.
 - **Incêndio**, com Corpo de Bombeiros e hidrantes.
 - **Onda de crime** quando os índices caem; resposta combinando emprego, iluminação, escola e policiamento.
+
+## Economia informal e bicos
+
+A informalidade é uma escada de progressão real, com as mesmas regras do emprego formal do outro lado: **bico → camelô → ponto fixo → MEI → empresa**. Cada degrau exige dinheiro, tempo e um pouco de sorte, e pode ser escalado ou descido.
+
+**Bicos do dia a dia:** pintor, eletricista, encanador, jardineiro, montador de móveis, diarista, entregador de aplicativo, sorveteiro de carrinho, vendedor de pipoca e algodão-doce em eventos, flanelinha (guardador de carros), catador de recicláveis (que alimenta a cooperativa).
+
+**Tentações leves do mundo informal:** pirataria no camelô (CD, DVD, camisa de time) e jogo do bicho no boteco — rendem rápido, aumentam a ficha e chamam a polícia.
+
+**Programas sociais federais:** Bolsa Família e afins entram como política do cargo federal no modo político, e no modo civil mudam a renda de famílias de verdade do mapa. É a ponte que fecha o ciclo federação → família.
+
+## Vida na rua
+
+O que faz a cidade parecer viva é o movimento na calçada. A variedade vem de um sistema modular, não de modelos feitos um a um: cerca de dez bases (criança, adolescente, adulto e idoso, masculino e feminino) com variações de cor, roupa e acessório, mais animações de atividade.
+
+**Atividades na rua:** jogando bola, empinando pipa, skate, bicicleta, caminhada e corrida na praça, adolescentes aglomerados com narguilé, dominó na mesa, vizinho varrendo a calçada, feirantes montando e desmontando, fila no ponto de ônibus.
+
+**Tipos que compõem o movimento:** trabalhadores indo e voltando, estudantes de uniforme, camelôs, policiais a pé, de moto e de viatura, entregadores de aplicativo, moradores de rua, pessoas em crise de dependência.
+
+**Regra de design para os casos sensíveis:** moradores de rua e dependência química são tratados como problemas sociais e de saúde, ligados às causas do jogo (desemprego, falta de moradia acessível, ausência de CRAS, CREAS e CAPS) — nunca como enfeite ou caricatura. A resposta do jogador é a mesma do resto do jogo: atender as causas.
+
+**Som do bairro:** som automotivo, igreja com som alto, festa que passa da hora, paredão na festa de rua da periferia. Tudo isso gera reclamação de vizinhos quando falta fiscalização — e aprovação quando o jogador equilibra.
+
+**Trânsito:** congestionamento no horário de pico, blitz da Lei Seca, acidentes que aumentam com trânsito caótico e falta de sinalização.
+
+## Animais
+
+**Pets do modo civil:** cachorro e gato (já definidos no modo civil), com ração, veterinário e passeio.
+
+**Animais de rua:** cão e gato sem dono, pombas nas praças. A prefeitura tem as ferramentas dela: feira de adoção (evento), castração e campanhas de zoonoses. Animais de rua sem cuidado aumentam reclamação e risco de doença; bem cuidados, viram parte da cara do bairro.
