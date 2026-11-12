@@ -41,6 +41,20 @@ Detalhes que dão sabor brasileiro: a feira montando e desmontando no dia certo,
 
 **Nomes de rede:** supermercados, atacarejos, drogarias, academias e postos em rede usam nomes fictícios inspirados nos padrões reais; marcas verdadeiras só com licença.
 
+### Regionalização
+
+O mapa escolhido define a cara do bairro: o catálogo de comércio, a comida, as festas e o sotaque do texto variam conforme a região do Brasil onde ele fica.
+
+| Região | O que muda |
+|---|---|
+| Interior paulista | Festa do peão, quermesse de igreja, distribuidora de bebidas grande, rodovia com caminhão |
+| Litoral | Peixada, barra de peixe na feira, turismo de verão, casa de veraneio |
+| Nordeste | Forró, São João longo, acarajé e comida de rua regional, praça cheia à noite |
+| Sul | Churrasco, casa de madeira, frio que muda a saúde e o comércio |
+| Grande São Paulo | Trânsito pesado, lotação e van, comércio de imigrantes, horário estendido |
+
+A regionalização também é conteúdo para expansões: pacotes de mapas de regiões diferentes trazem catálogo, festas e eventos próprios, sem precisar de sistemas novos.
+
 ## Necessidades, índices e orçamento
 
 Cada família tem necessidades, e o bairro só cresce de forma saudável quando elas são atendidas. Quando uma falta, o efeito aparece no mapa e nos índices.
@@ -115,7 +129,9 @@ O que faz a cidade parecer viva é o movimento na calçada. A variedade vem de u
 
 **Som do bairro:** som automotivo, igreja com som alto, festa que passa da hora, paredão na festa de rua da periferia. Tudo isso gera reclamação de vizinhos quando falta fiscalização — e aprovação quando o jogador equilibra.
 
-**Trânsito:** congestionamento no horário de pico, blitz da Lei Seca, acidentes que aumentam com trânsito caótico e falta de sinalização.
+**Rádio comunitária:** a rádio do bairro anuncia obra, festa, campanha de vacinação e perigo. No modo político, o jogador pode comprar horário para divulgar a gestão e a campanha — e o robô-governo faz o mesmo. É o canal que os moradores mais confiam, e o que espalha rápido um escândalo.
+
+**Trânsito:** hora do rush de manhã e no fim da tarde engarrafando as vias principais — o trajeto até o trabalho fica mais longo e alimenta a reclamação da população. Blitz da Lei Seca, acidentes que aumentam com trânsito caótico e falta de sinalização.
 
 ## Animais
 
