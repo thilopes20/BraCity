@@ -203,6 +203,8 @@ O celular do personagem tem grupos de WhatsApp, e eles são o canal onde boa par
 
 **Questões em aberto de multiplayer:** dois jogadores querendo o mesmo bairro (resolvido por eleição ou fila); prefeito e vereador jogadores discordando (votações na câmara, disputa por verba e alianças como mecânica). O online entra só na última fase, depois que o jogo solo estiver divertido.
 
+**Visão de longo prazo:** um modo colaborativo em que cada jogador cria o mapa do próprio bairro e os bairros se conectam até formar cidades inteiras — o multiplayer como a parte mais divertida, com conflitos entre jogadores (disputa de lote, briga de orçamento, campanha contra campanha). Exige servidores, moderação e custo de manutenção, então fica guardado para quando o jogo solo já pagar a conta.
+
 ## Tecnologia e visual
 
 O jogo usa 3D low-poly com câmera ortográfica fixa em ângulo isométrico. De cima parece SimCity, mas as ruas podem seguir qualquer curva, inclusive o traçado real dos bairros.
@@ -261,7 +263,7 @@ O jogo sai nas duas plataformas a partir de um único projeto no Unity. A regra 
 
 As plataformas se completam no uso. O modo civil, com eventos e escolhas, encaixa em sessões curtas no celular. As sessões longas de construção rendem mais no PC.
 
-**Monetização igual nas duas:** jogo base gratuito, expansões pagas (carreiras, eventos, cidades), cosméticos e, no celular, anúncios recompensados opcionais. Nada de vender dinheiro do jogo ou atalhos de tempo.
+**Monetização igual nas duas:** jogo base gratuito, expansões pagas (carreiras, eventos, cidades e pacotes de mapas de bairros de regiões do Brasil), cosméticos e, no celular, anúncios recompensados opcionais. Nada de vender dinheiro do jogo ou atalhos de tempo. A regionalização vira conteúdo: centenas de bairros brasileiros vendidos em pacotes por região mantêm o jogo renovado sem mudar a simulação.
 
 **Ordem de lançamento:** o desenvolvimento é feito no PC, mas o primeiro lançamento é na Play Store, onde a conta de desenvolvedor já existe e não há custo novo. A Steam entra depois, paga com a receita do jogo. Enquanto isso, a versão de PC pode sair de graça no itch.io, que não cobra para publicar, para receber opiniões de jogadores.
 
