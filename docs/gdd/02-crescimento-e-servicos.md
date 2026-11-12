@@ -32,7 +32,7 @@ O catálogo segue a realidade brasileira. O que é público, o jogador decide e 
 | Assistência social | CRAS, CREAS, restaurante popular, albergue, centro de referência de população em situação de rua | Público |
 | Lazer e cultura | Praça, academia ao ar livre, campo de várzea, quadra poliesportiva, parque, biblioteca, centro cultural, parquinho infantil, escolinha de futebol, ginásio esportivo, estádio municipal | Público |
 | Religião e comunidade | Igreja católica, igreja evangélica, terreiro, salão da associação de moradores | Comunidade |
-| Transporte | Ponto de ônibus, terminal de ônibus, ponto de mototáxi, ciclofaixa, BRT, estação de trem ou metrô, rodoviária, van e lotação de bairro, ponto de táxi | Público; mototáxi, van e táxi pelo mercado |
+| Transporte | Ponto de ônibus, terminal de ônibus, ponto de mototáxi, ciclofaixa, BRT, estação de trem ou metrô, rodoviária, aeródromo (cidade do interior), van e lotação de bairro, ponto de táxi | Público; mototáxi, van e táxi pelo mercado |
 | Infraestrutura | Rede de água e esgoto, estação de tratamento, iluminação pública, asfalto (rua de terra vira asfaltada), calçada, drenagem e piscinão, coleta de lixo, ecoponto, cooperativa de reciclagem | Público |
 | Serviços e governo | Subprefeitura, posto de atendimento ao cidadão, agência dos Correios, cartório, agência bancária, câmara de vereadores, prefeitura | Público; banco pelo mercado |
 | Trabalho | Galpão, distribuidora, fábrica, escritórios, centro de distribuição de e-commerce (CD) | Mercado |
@@ -88,6 +88,8 @@ As comunidades entram no mapa onde existem de verdade, a partir dos dados do IBG
 **Regra de design:** o crime nasce de causas que valem para qualquer área do mapa (falta de emprego, de iluminação, de escola, de saneamento, de policiamento). A comunidade aparece com índices piores porque acumula essas faltas, e melhorar a vida dos moradores reduz o problema. O jogo nunca liga crime ao lugar em si, para não virar estereótipo.
 
 A comunidade também tem força própria: comércio movimentado, associação de moradores ativa, campo de várzea, baile, samba e festa junina.
+
+**Vielas:** o traçado das comunidades vem cheio de vielas e becos onde carro não entra — o importador do OpenStreetMap traz esses caminhos como passagem de pedestre. Mototáxi e entrega a pé circulam bem ali; coleta de lixo, iluminação e ambulância são mais caras e mais decisões de verdade, porque o acesso é estreito. Em morro, a viela vira escada.
 
 ### Escolhas do jogador
 
