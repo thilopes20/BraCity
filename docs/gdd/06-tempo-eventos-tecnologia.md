@@ -11,6 +11,21 @@
 - A idade muda o que é possível: algumas carreiras e concursos ficam mais difíceis com o tempo, a saúde pede mais cuidado, e a aposentadoria pelo INSS segue as regras reais de idade mínima e tempo de contribuição.
 - Quem não contribuiu ou não guardou dinheiro chega à velhice dependendo dos filhos ou de ajuda do governo.
 
+### Ritmo do tempo
+
+Todas as velocidades são proporcionais entre si (múltiplos de uma mesma base), e o relógio do jogo é guardado em minutos de jogo — assim o save não depende da velocidade ativa.
+
+| Velocidade | Proporção | Uso |
+|---|---|---|
+| Pausa | — | Eventos, planejar, organizar a agenda |
+| Real (opcional) | 1 dia de jogo = 24 horas reais | Modo civil contemplativo: a vida corre no ritmo do jogador, e o jogo continua vivendo enquanto ele está fora |
+| Lenta | 1 dia de jogo = 4 horas reais | Sessão curta, acompanhar um dia de perto |
+| Normal | 1 dia de jogo = 1 hora real | Padrão |
+| Rápida | 1 dia de jogo = 10 minutos reais | Construir, atravessar semanas |
+| Super acelerada | 1 dia de jogo = 1 minuto real | Infância, esperar obra, entre eleições |
+
+O tempo real é opção só do modo civil: um mandato de 4 anos em tempo real seriam 4 anos reais, então no modo político mandam as velocidades proporcionais. No tempo real, o jogo continua com o jogador ausente, mas com regras suaves: nenhum desastre novo começa sem o jogador, e ao voltar ele recebe um resumo do que aconteceu.
+
 ### Fins de jogo de verdade
 
 - **Morte sem herdeiro:** a família acaba e a história se encerra.
@@ -237,9 +252,9 @@ Cada fase termina com algo jogável. A seguinte só começa quando a anterior es
 ## Decisões em aberto
 
 - [ ] Valores de risco a calibrar nos testes: chances de morte, de investigação e de escândalo
-- [ ] Qual bairro real usar de teste no protótipo?
+- [x] Qual bairro real usar de teste no protótipo? → Maré Mansa + Parque Imperial (Presidente Prudente) nas fases 1–2; Freguesia do Ó (SP) como mapa completo; Jardim Ângela na fase 6
 - [ ] Tamanho máximo do mapa, definido nos testes de desempenho
 - [ ] Cargo no nível do distrito (subprefeito, administrador regional ou nenhum)
 - [ ] Regra para dois jogadores que querem o mesmo bairro
-- [ ] Ritmo do tempo: quanto tempo de jogo passa por minuto real, e mandatos de 4 anos
+- [x] Ritmo do tempo: velocidades proporcionais definidas (tabela no capítulo 6); tempo real como opção do modo civil; mandatos de 4 anos mantidos
 - [ ] Nome do jogo: provisório BraCity; confirmar no INPI e na Play Store antes do lançamento
