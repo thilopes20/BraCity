@@ -80,6 +80,19 @@ Cada estado é uma tabela de modificadores que os sistemas leem: chuva forte aum
 
 No modo civil, a chuva muda o humor, o trajeto e a rotina: a feira não monta no dia de tempestade. E a chuva de verão que alaga a rua de terra sem drenagem mostra na pele o investimento que faltou — exatamente o espírito do jogo.
 
+### Calendário de festas
+
+Festas entram no calendário do bairro e movem aprovação, comércio e trânsito:
+
+- Carnaval de rua no bairro, com bloco saindo da praça.
+- Festa junina na escola e quermesse da igreja.
+- Festa do peão nas cidades do interior.
+- Queima de fogos no ano novo.
+- Campeonato de várzea no fim de semana, lotando o campo.
+- Festas de rua na periferia, com paredão e comércio de rua.
+
+Apoiar uma festa rende aprovação e movimento no comércio; liberar sem controle de som e horário gera reclamação dos vizinhos e queda nos índices da rua.
+
 ## Economia em números
 
 **Unidade base: o salário mínimo.** Todos os valores do jogo são guardados como múltiplos do salário mínimo (SM) e mostrados em reais. Em 2026, o SM é de R$ 1.621. Assim a economia não envelhece: quando o SM sobe, dentro do jogo ou numa atualização, tudo se ajusta junto, e as proporções continuam fazendo sentido.
