@@ -18,9 +18,9 @@ Scripts da fase 1 do GDD: câmera isométrica, terreno, desenhar rua curva com o
 
 1. **Chão:** Hierarchy → botão direito → 3D Object → **Plane**. No Inspector, mude o Scale para (20, 1, 20) → chão de 200 x 200 m.
 2. **Câmera:** selecione a **Main Camera** → Add Component → `CameraIsometrica` (ela já configura a projeção ortográfica sozinha).
-3. **Construtor:** Hierarchy → Create Empty → nomeie `Construtor` → Add Component → `ConstrutorPrototipo`.
-4. No componente `ConstrutorPrototipo`, arraste o Plane para o campo **Chão**.
-5. (Opcional) Importe o **Kenney City Kit** (gratuito, https://kenney.nl/assets/city-kit) e arraste os modelos que quiser para o array **Prédios** do `ConstrutorPrototipo`. Sem nada atribuído, o jogo cria cubos de alturas variadas no lugar.
+3. **Construtor:** Hierarchy → Create Empty → nomeie `Construtor` → Add Component → `DesenhadorDeRuas` e, no mesmo objeto, `ColocadorDePredios`.
+4. Pronto — ambos os componentes já acham o chão sozinhos pelo raycast (LayerMask padrão = Everything).
+5. (Opcional) Importe o **Kenney City Kit** (gratuito, https://kenney.nl/assets/city-kit) e arraste os modelos que quiser para o array **Prédios** do `ColocadorDePredios`. Sem nada atribuído, o jogo cria cubos de alturas variadas no lugar.
 
 Salve a cena (Ctrl+S) e aperte **Play**.
 
